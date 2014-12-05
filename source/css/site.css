@@ -205,12 +205,56 @@ a {
 .cont-7 {
 	display: inline-block;
 	vertical-align: top;
+	min-width: 940px;
+	width: 940px;
+	min-height: 21px;
+	position: relative;
+	margin-left: 10px;
+	margin-top: 7px;
+	overflow: visible;
+}
+.font-9 {
+	font-family: "Fira Mono";
+	font-size: 6.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(230,229,230);
+	text-indent: 0px;
+	line-height: 14pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: center;
+	letter-spacing: normal;
+}
+.font-10 {
+	font-family: "Fira Mono";
+	font-size: 6.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(230,229,230);
+	text-indent: 0px;
+	line-height: 14pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: center;
+	letter-spacing: normal;
+}
+.cont-8 {
+	overflow: hidden;
+}
+.cont-9 {
+	display: inline-block;
+	vertical-align: top;
 	min-width: 190px;
 	width: 190px;
 	min-height: 50px;
 	position: relative;
 	margin-left: 385px;
-	margin-top: 964px;
+	margin-top: 936px;
 	height: 50px;
 }
 .anchor {
@@ -274,7 +318,7 @@ a {
 	min-height: 57px;
 	position: relative;
 	margin-left: 38px;
-	margin-top: 57px;
+	margin-top: 36px;
 	overflow: visible;
 }
 .font {
@@ -303,7 +347,7 @@ a {
 	min-height: 46px;
 	position: relative;
 	margin-left: 3px;
-	margin-top: 0px;
+	margin-top: 21px;
 	overflow: visible;
 }
 .font-2 {
@@ -417,12 +461,56 @@ a {
 .cont-7 {
 	display: inline-block;
 	vertical-align: top;
+	min-width: 313px;
+	width: 313px;
+	min-height: 21px;
+	position: relative;
+	margin-left: 7px;
+	margin-top: -10px;
+	overflow: visible;
+}
+.font-9 {
+	font-family: "Fira Mono";
+	font-size: 6.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(230,229,230);
+	text-indent: 0px;
+	line-height: 14pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: center;
+	letter-spacing: normal;
+}
+.font-10 {
+	font-family: "Fira Mono";
+	font-size: 6.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(230,229,230);
+	text-indent: 0px;
+	line-height: 14pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: center;
+	letter-spacing: normal;
+}
+.cont-8 {
+	overflow: hidden;
+}
+.cont-9 {
+	display: inline-block;
+	vertical-align: top;
 	min-width: 63px;
 	width: 63px;
 	min-height: 17px;
 	position: relative;
 	margin-left: 128px;
-	margin-top: 116px;
+	margin-top: 105px;
 	height: 17px;
 }
 .anchor {
@@ -430,6 +518,1090 @@ a {
 	width: 63px;
 }
 .img-2 {
+	position: absolute;
+	left: 0px;
+	width: 63px;
+	height: 17px;
+	top: 0px;
+}
+}
+
+body {
+	font-size: 0px;
+}
+div {
+	font-size: 0px;
+}
+p {
+	margin: 0em;
+}
+a {
+	text-decoration: inherit;
+	color: inherit;
+}
+#body-2 {
+	background-color: rgb(255,255,255);
+}
+.section-2 {
+	position: relative;
+	margin-top: 108px;
+	min-width: 960px;
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.cont-10 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 192px;
+	width: 192px;
+	min-height: 108px;
+	position: relative;
+	margin-left: 384px;
+	margin-top: 0px;
+	height: 108px;
+}
+.anchor-2 {
+	display: block;
+	width: 192px;
+}
+.img-3 {
+	position: absolute;
+	left: 0px;
+	width: 192px;
+	height: 108px;
+	top: 0px;
+}
+.cont-11 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 933px;
+	width: 933px;
+	min-height: 1397px;
+	position: relative;
+	margin-left: 0px;
+	margin-top: 62px;
+	overflow: visible;
+}
+.font-11 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 21pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-12 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 21pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-13 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 21pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-14 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 21pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-15 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 21pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-16 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 21pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-17 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 21pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-18 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 21pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-19 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 21pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-20 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 21pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-21 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 21pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-22 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: center;
+	letter-spacing: normal;
+}
+.font-23 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-24 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-25 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-26 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-27 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-28 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-29 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-30 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-31 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-32 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-33 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-34 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-35 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-36 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-37 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-38 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-39 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-40 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-41 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.cont-12 {
+	overflow: hidden;
+}
+.cont-13 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 190px;
+	width: 190px;
+	min-height: 50px;
+	position: relative;
+	margin-left: 390px;
+	margin-top: 27px;
+	height: 50px;
+}
+.anchor-3 {
+	display: block;
+	width: 190px;
+}
+.img-4 {
+	position: absolute;
+	left: 0px;
+	width: 190px;
+	height: 50px;
+	top: 0px;
+}
+@media (max-width:959px) {
+#body-2 {
+	background-color: rgb(255,255,255);
+}
+.section-2 {
+	position: relative;
+	margin-top: 40px;
+	min-width: 320px;
+	width: 320px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.cont-10 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 147px;
+	width: 147px;
+	min-height: 112px;
+	position: relative;
+	margin-left: 87px;
+	margin-top: 0px;
+	height: 112px;
+}
+.anchor-2 {
+	display: block;
+	width: 147px;
+}
+.img-3 {
+	position: absolute;
+	left: 0px;
+	width: 147px;
+	height: 83px;
+	top: 15px;
+}
+.cont-11 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 300px;
+	width: 300px;
+	min-height: 914px;
+	position: relative;
+	margin-left: 10px;
+	margin-top: 39px;
+	overflow: visible;
+}
+.font-11 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-12 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-13 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-14 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-15 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-16 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-17 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-18 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-19 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-20 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-21 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-22 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-23 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-24 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-25 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-26 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-27 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-28 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-29 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-30 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-31 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-32 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-33 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-34 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-35 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-36 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-37 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-38 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-39 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-40 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-41 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.cont-12 {
+	overflow: hidden;
+}
+.cont-13 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 63px;
+	width: 63px;
+	min-height: 17px;
+	position: relative;
+	margin-left: 129px;
+	margin-top: 53px;
+	height: 17px;
+}
+.anchor-3 {
+	display: block;
+	width: 63px;
+}
+.img-4 {
 	position: absolute;
 	left: 0px;
 	width: 63px;
