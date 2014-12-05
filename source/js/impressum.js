@@ -17,6 +17,6 @@ $(window).resize(r);
 r()
 if(location.protocol === 'file:')
 {
-$("head").append($("<link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=EB+Garamond|Fira+Mono&subset=all'></link>"));
+$("head").append($("<link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Fira+Mono&subset=all'></link>"));
 }
 });
