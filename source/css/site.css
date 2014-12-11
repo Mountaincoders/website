@@ -577,7 +577,7 @@ a {
 	vertical-align: top;
 	min-width: 933px;
 	width: 933px;
-	min-height: 1397px;
+	min-height: 1959px;
 	position: relative;
 	margin-left: 0px;
 	margin-top: 62px;
@@ -796,7 +796,7 @@ a {
 .font-25 {
 	font-family: "Fira Mono";
 	font-size: 9.0pt;
-	font-weight: 400;
+	font-weight: 700;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
@@ -856,7 +856,7 @@ a {
 .font-29 {
 	font-family: "Fira Mono";
 	font-size: 9.0pt;
-	font-weight: 400;
+	font-weight: 700;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
@@ -916,7 +916,7 @@ a {
 .font-33 {
 	font-family: "Fira Mono";
 	font-size: 9.0pt;
-	font-weight: 400;
+	font-weight: 700;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
@@ -976,7 +976,7 @@ a {
 .font-37 {
 	font-family: "Fira Mono";
 	font-size: 9.0pt;
-	font-weight: 400;
+	font-weight: 700;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
@@ -1048,6 +1048,156 @@ a {
 	text-align: left;
 	letter-spacing: normal;
 }
+.font-42 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-43 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 700;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-44 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-45 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-46 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-47 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-48 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-49 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-50 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-51 {
+	font-family: "Fira Mono";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 20pt;
+	padding-top: 3pt;
+	margin-top: 0pt;
+	margin-bottom: -3pt;
+	text-align: left;
+	letter-spacing: normal;
+}
 .cont-12 {
 	overflow: hidden;
 }
@@ -1059,7 +1209,7 @@ a {
 	min-height: 50px;
 	position: relative;
 	margin-left: 390px;
-	margin-top: 27px;
+	margin-top: 7px;
 	height: 50px;
 }
 .anchor-3 {
@@ -1119,467 +1269,617 @@ a {
 	overflow: visible;
 }
 .font-11 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-12 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-13 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-14 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-15 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-16 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-17 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-18 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-19 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-20 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-21 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-22 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-23 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-24 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-25 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-26 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-27 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-28 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-29 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-30 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-31 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-32 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-33 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-34 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-35 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-36 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-37 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-38 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-39 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-40 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
 .font-41 {
-	font-family: "Fira Mono";
+	font-family: "EB Garamond";
 	font-size: 9.0pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(58,165,218);
 	text-indent: 0px;
-	line-height: 20pt;
-	padding-top: 3pt;
+	line-height: 16pt;
+	padding-top: 2pt;
 	margin-top: 0pt;
-	margin-bottom: -3pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-42 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-43 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-44 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-45 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-46 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-47 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-48 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-49 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-50 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
+	text-align: left;
+	letter-spacing: normal;
+}
+.font-51 {
+	font-family: "EB Garamond";
+	font-size: 9.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(58,165,218);
+	text-indent: 0px;
+	line-height: 16pt;
+	padding-top: 2pt;
+	margin-top: 0pt;
+	margin-bottom: -2pt;
 	text-align: left;
 	letter-spacing: normal;
 }
